@@ -1,4 +1,4 @@
-#Prognosis AI : An Advanced Medical Prediction System
+# Prognosis AI : An Advanced Medical Prediction System
 
 This project will detect seven major diseases under one platform which are as follows:
 
